@@ -1,4 +1,4 @@
-# Exercicios.py-Fibonacci-String-Vetor-Percentual
+# Fibonacci-String-Vetor-Percentual
 <!DOCTYPE html>
 <html lang="en">
 <head>
