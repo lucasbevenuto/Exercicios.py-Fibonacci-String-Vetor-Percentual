@@ -3,3 +3,5 @@
 #• O maior valor de faturamento ocorrido em um dia do mês;
 #• Número de dias no mês em que o valor de faturamento diário foi superior à média mensal.
 
+print('Ainda não tentei')
+
